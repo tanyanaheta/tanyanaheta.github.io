@@ -1,0 +1,36 @@
+
+title: "Tanya Naheta | Data Scientist"
+email: "tanyanaheta@example.com"
+description: >- 
+  Tanya Naheta | Data Scientist focused on product analytics, Responsible AI, and end-to-end system design.
+baseurl: ""
+url: "https://tanyanaheta.github.io"
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-gist
+  - jekyll-remote-theme
+
+author:
+  name: "Tanya Naheta"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Blending modeling rigor with strategic impact to build systems that work—and work ethically."
+  location: "New York, NY"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:tanyanaheta@example.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/tanyanaheta"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/tanyanaheta/"
+    - label: "View Resume"
+      icon: "fas fa-file"
+      url: "/assets/resume.pdf"
