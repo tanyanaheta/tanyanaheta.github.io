@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Natural language models like FinBERT are great at labeling sentiment—but that’s only part of the story. In this project, I explored whether *forward-looking language* in 10-Ks and earnings reports could surface implicit strategy signals.
+Natural language models like FinBERT are great at labeling sentiment, but that’s only part of the story. In this project, I explored whether *forward-looking language* in 10-Ks and earnings reports could surface implicit strategy signals.
 
 I developed custom regex patterns to isolate phrases like “we expect,” “anticipate growth,” or “likely to scale.” These were used to subset FinBERT sentiment labels, revealing that sectors with more forward-looking optimism (e.g. tech) aligned with growth trends post-earnings.
 
