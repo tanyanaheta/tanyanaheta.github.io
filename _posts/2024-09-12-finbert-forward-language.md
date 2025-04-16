@@ -1,6 +1,6 @@
 ---
-title: Beyond Sentiment: Extracting Forward-Looking Signals from Financial Text
-excerpt: How parsing forward-looking phrases in 10-K filings adds predictive power to FinBERT sentiment pipelines.
+title: "Beyond Sentiment: Extracting Forward-Looking Signals from Financial Text"
+excerpt: "How parsing forward-looking phrases in 10-K filings adds predictive power to FinBERT sentiment pipelines."
 layout: default
 author_profile: true
 ---
