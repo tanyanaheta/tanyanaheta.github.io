@@ -49,4 +49,3 @@ I'm especially excited about roles where I can connect the dots between data, pr
   {% endfor %}
 </ul>
 
-<a href="/blog">View all posts →</a>
