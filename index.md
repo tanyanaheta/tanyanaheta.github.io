@@ -5,12 +5,11 @@ title: Tanya Naheta | Data Scientist
 
 ## About
 
-I'm a data scientist with a background in product analytics, financial modeling, and Responsible AI research.
-I build scalable, interpretable, and ethical AI systems to support smarter product and business decisions.
+I'm a data scientist with over three years of experience translating complex data into business impact across product, fintech, and Responsible AI contexts. My work bridges analytics, strategy, and systems thinking — from building a graph-based recommendation engine at Zillow, to co-developing an evaluation framework for foundation models used in high-stakes applications.
 
-- M.S. in Data Science, NYU
-- Experienced in NLP, Graph ML, audits, and experimentation
-- Focused on usable, decision-aligned modeling
+I thrive at the intersection of technical rigor and practical decision-making. Whether it's surfacing forward-looking sentiment from company filings, identifying bias in content moderation systems, or designing interpretable credit risk models, I bring curiosity, structure, and a strong sense of ownership to every challenge.
+
+I'm especially excited about roles where I can connect the dots between data, product, and human decision-making — and help build tools that are both useful and responsible.
 
 ---
 
@@ -18,21 +17,29 @@ I build scalable, interpretable, and ethical AI systems to support smarter produ
 
 ### Featured Work
 
-- [Ethical Foundation Models](projects/ethical-foundation-models.md)
-  <br><small>Governance analysis and AI Balance Sheet development</small>
+- [Ethical Foundation Models](projects/ethical-foundation-models.md)  
+  <small>Governance analysis and AI Balance Sheet development</small>
 
-- [Multimodal Knowledge Graph for Real Estate](projects/multimodal-knowledge-graph.md)
-  <br><small>Built a Zillow-style listing graph using CLIP + GraphSAGE</small>
+- [Multimodal Knowledge Graph for Real Estate](projects/multimodal-knowledge-graph.md)  
+  <small>Built a Zillow-style listing graph using CLIP + GraphSAGE</small>
 
 ---
 
 ### Technical + Strategy Projects
 
-- [Mortgage Risk Classification](projects/mortgage-risk-classification.md)
-  <br><small>Logistic regression model on 400K+ Fannie Mae loans</small>
+- [Mortgage Risk Classification](projects/mortgage-risk-classification.md)  
+  <small>Logistic regression model on 400K+ Fannie Mae loans</small>
 
-- [Financial Sentiment Analysis](projects/financial-sentiment-analysis.md)
-  <br><small>Forward-looking tone extraction using FinBERT</small>
+- [Financial Sentiment Analysis](projects/financial-sentiment-analysis.md)  
+  <small>Forward-looking tone extraction using FinBERT</small>
 
-- [Bias Evaluation of Toxicity Detection](projects/bias-toxicity-evaluation.md)
-  <br><small>Fairness audit of Detoxify using subgroup analysis</small>
+- [Bias Evaluation of Toxicity Detection](projects/bias-toxicity-evaluation.md)  
+  <small>Fairness audit of Detoxify using subgroup analysis</small>
+
+---
+
+## Contact
+
+- 📧 Email: [tanyanaheta@gmail.com](mailto:tanyanaheta@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/tanya-naheta](https://www.linkedin.com/in/tanya-naheta/)  
+- 📄 [View Resume](resume.pdf)
