@@ -5,11 +5,11 @@ title: Tanya Naheta | Data Scientist
 
 ## About
 
-I'm a data scientist with over three years of experience translating complex data into business impact across product, fintech, and Responsible AI contexts. My work bridges analytics, strategy, and systems thinking — from building a graph-based recommendation engine at Zillow to co-developing an evaluation framework for foundation models used in high-stakes applications.
+I'm a data scientist with 3+ years of experience turning complex data into clear, actionable insights. I’ve led projects at Zillow to improve real estate discovery using graph-based recommendations, co-developed a multidimensional evaluation framework for foundation models at NYU, and delivered interpretable credit risk models to support loan strategy.
 
-I thrive at the intersection of technical rigor and practical decision-making. Whether it's surfacing forward-looking sentiment from company filings, identifying bias in content moderation systems, or designing interpretable credit risk models, I bring curiosity, structure, and a strong sense of ownership to every challenge.
+Across roles, I’ve worked at the intersection of analytics, product, and responsible AI - using tools like Python, SQL, and graph ML to connect technical signals to business decisions. At Acclaim, I built SQL pipelines and delivered dashboards to client success teams, helping translate operational data into measurable KPIs. I care deeply about designing analyses and systems that are not just technically strong, but decision-ready.
 
-I'm especially excited about roles where I can connect the dots between data, product, and human decision-making — and help build tools that are both useful and responsible.
+Whether it's surfacing forward-looking sentiment from 10-Ks, modeling user behavior, or aligning AI systems with real-world incentives, I bring structure, curiosity, and ownership to every project.
 
 ---
 
