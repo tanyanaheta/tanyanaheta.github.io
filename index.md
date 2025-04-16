@@ -38,8 +38,15 @@ I'm especially excited about roles where I can connect the dots between data, pr
 
 ---
 
-## Contact
+## Blog
 
-- 📧 Email: [tanyanaheta@gmail.com](mailto:tanyanaheta@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/tanya-naheta](https://www.linkedin.com/in/tanya-naheta/)  
-- 📄 [View Resume](resume.pdf)
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <strong><a href="{{ post.url }}">{{ post.title }}</a></strong><br/>
+      <small>{{ post.excerpt }}</small>
+    </li>
+  {% endfor %}
+</ul>
+
+<a href="/blog">View all posts →</a>
